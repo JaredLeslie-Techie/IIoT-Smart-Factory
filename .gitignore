@@ -1,0 +1,17 @@
+# Local Wi-Fi and MQTT credentials (at any folder depth)
+**/secrets.h
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
